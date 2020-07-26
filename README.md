@@ -17,10 +17,5 @@ Completed.
 # Learning from the hack
 There is no ending to learning, there is always more to learn.
 # Screenshots
-![1](https://user-images.githubusercontent.com/58786316/88484165-61b66000-cf8a-11ea-87d5-a64d9159e806.jpeg)
-
-![2](https://user-images.githubusercontent.com/58786316/88484177-74c93000-cf8a-11ea-82e6-eff2f3201ff4.jpeg)
-
-![3](https://user-images.githubusercontent.com/58786316/88484182-77c42080-cf8a-11ea-9701-dcd12589d441.jpeg)
-
-![4](https://user-images.githubusercontent.com/58786316/88484184-78f54d80-cf8a-11ea-860d-f329e2e6a5d8.jpeg)
+![1](https://user-images.githubusercontent.com/58786316/88484165-61b66000-cf8a-11ea-87d5-a64d9159e806.jpeg)![2](https://user-images.githubusercontent.com/58786316/88484177-74c93000-cf8a-11ea-82e6-eff2f3201ff4.jpeg)
+![3](https://user-images.githubusercontent.com/58786316/88484182-77c42080-cf8a-11ea-9701-dcd12589d441.jpeg)![4](https://user-images.githubusercontent.com/58786316/88484184-78f54d80-cf8a-11ea-860d-f329e2e6a5d8.jpeg)
