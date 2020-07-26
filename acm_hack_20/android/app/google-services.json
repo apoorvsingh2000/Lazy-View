@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152361992044",
+    "firebase_url": "https://acmhack20.firebaseio.com",
+    "project_id": "acmhack20",
+    "storage_bucket": "acmhack20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152361992044:android:9e7ddcc9862c2b63993d49",
+        "android_client_info": {
+          "package_name": "com.apoorv.acm_hack_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152361992044-5k2ekksop4jvpo8k466qaksd5kv0t8r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apoorv.acm_hack_20",
+            "certificate_hash": "f53083c91af3d1b9e3b8a0a40d8456b6c4f23f40"
+          }
+        },
+        {
+          "client_id": "152361992044-rk4rrro4m93gi1hmts9toombhfpve2nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARCCcRGIyxlcvpaH92QJbg0wk7_Lonfl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152361992044-rk4rrro4m93gi1hmts9toombhfpve2nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
